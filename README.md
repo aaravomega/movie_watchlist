@@ -1,41 +1,35 @@
-# 📽️ Movie Finder
+# 🎬 [Movie Finder](https://cc4addb9ada4dcba4195d2bb8eaa5d43d8d5c4a3-riugm75r2rfvnfzmzbepc.streamlit.app/)
 
-A powerful movie search tool that helps you discover detailed movie information, including posters, cast, genres, streaming availability, and more — all in one sleek app.
-
-> Built using Python and Streamlit.
+[![Open Movie Finder](https://img.shields.io/badge/🎬_Movie%20Finder-BrightGreen?style=for-the-badge)](https://cc4addb9ada4dcba4195d2bb8eaa5d43d8d5c4a3-riugm75r2rfvnfzmzbepc.streamlit.app/)
 
 ---
 
-## 👉 [Try the app here](https://cc4addb9ada4dcba4195d2bb8eaa5d43d8d5c4a3-riugm75r2rfvnfzmzbepc.streamlit.app/)
+### 🔍 What is Movie Finder?
 
+**Movie Finder** is a sleek and powerful Streamlit app that helps you:
 
-## ✨ Features
+- 🔎 Search for movies by title
+- 📝 View plot summaries, ratings, and cast
+- 📺 Check streaming availability
+- 🧾 Manage a personal watchlist
 
-- 🔍 **Search for any movie** using the IMDb API  
-- 🧠 **Detailed information** like cast, genres, release date, plot, and rating  
-- 🖼️ **Posters & images** rendered beautifully  
-- 🎯 **Streaming availability** 
-- 📝 **Add to Watchlist** 
-- ⚡ Built using **Streamlit** for easy web access
-
----
-
-## 🧰 Tech Stack
-
-- Python 🐍  
-- Streamlit 📺  
-- IMDb API via RapidAPI  
-- JustWatch API (unofficial)  
-- Pillow (for image handling)  
-- Requests (for API calls)
+All in one beautiful interface.
 
 ---
 
-## 📦 Installation
+### 🛠️ Tech Stack
 
-Clone the repo and install the required packages:
+- Python 🐍
+- Streamlit 🎈
+- IMDb + Streaming APIs
+- PIL for image handling
+- Tkinter (for desktop version)
 
-```bash
-git clone https://github.com/your-username/movie-finder.git
-cd movie-finder
-pip install -r requirements.txt
+---
+
+### 📦 Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/movie-finder.git
+   cd movie-finder
