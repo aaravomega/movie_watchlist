@@ -13,7 +13,7 @@
 - 📺 Check streaming availability
 - 🧾 Manage a personal watchlist
 
-All in one beautiful interface.
+All in one place.
 
 ---
 
