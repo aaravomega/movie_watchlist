@@ -6,8 +6,6 @@ A powerful movie search tool that helps you discover detailed movie information,
 
 ---
 
-## 🚀 Live Demo
-
 ## 👉 [Try the app here](https://cc4addb9ada4dcba4195d2bb8eaa5d43d8d5c4a3-riugm75r2rfvnfzmzbepc.streamlit.app/)
 
 ---
