@@ -1,6 +1,6 @@
 # 🎬 [Movie_watchlist_site](https://cc4addb9ada4dcba4195d2bb8eaa5d43d8d5c4a3-riugm75r2rfvnfzmzbepc.streamlit.app/)
 
-[![Open Movie Finder](https://img.shields.io/badge/🎬_Movie%20Finder-BrightGreen?style=for-the-badge)](https://cc4addb9ada4dcba4195d2bb8eaa5d43d8d5c4a3-riugm75r2rfvnfzmzbepc.streamlit.app/)
+[![Open Bookmark this](https://img.shields.io/badge/🎬_Movie%20Finder-BrightGreen?style=for-the-badge)](https://cc4addb9ada4dcba4195d2bb8eaa5d43d8d5c4a3-riugm75r2rfvnfzmzbepc.streamlit.app/)
 
 ---
 
